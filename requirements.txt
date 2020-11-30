@@ -1,0 +1,12 @@
+starlette
+uvicorn
+aiofiles
+fastapi
+tqdm
+python-dotenv
+requests
+matplotlib
+oauthlib
+requests-oauthlib
+numpy
+Pillow
